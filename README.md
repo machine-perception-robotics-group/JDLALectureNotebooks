@@ -43,7 +43,7 @@
 
 01. [双方向LSTMによる品詞のタグ付け](https://colab.research.google.com/github/machine-perception-robotics-group/JDLALectureNotebooks/blob/master/notebooks/16_bi-directional_lstm.ipynb)
 
-01. [Encoder-Decoderによる機械翻訳](https://colab.research.google.com/github/machine-perception-robotics-group/JDLALectureNotebooks/blob/master/notebooks/17_lstm_encoder_decoder_pytorch.ipynb)
+01. [Encoder-Decoderによる機械翻訳](https://colab.research.google.com/github/machine-perception-robotics-group/JDLALectureNotebooks/blob/master/notebooks/17_lstm_encoder_decoder.ipynb)
 
 01. [Residual Networks・Wide Residual Network](https://colab.research.google.com/github/machine-perception-robotics-group/JDLALectureNotebooks/blob/master/notebooks/18_resnet_wrn.ipynb)
 
