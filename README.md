@@ -25,6 +25,8 @@
 
 01. [畳み込みニューラルネットワークを用いた画像認識](https://colab.research.google.com/github/machine-perception-robotics-group/JDLALectureNotebooks/blob/master/notebooks/07_convolutional_neural_network.ipynb)
 
+01. [様々なプーリング層](https://colab.research.google.com/github/machine-perception-robotics-group/JDLALectureNotebooks/blob/master/notebooks/xx_pooling_layers.ipynb)
+
 01. [Dropuot](https://colab.research.google.com/github/machine-perception-robotics-group/JDLALectureNotebooks/blob/master/notebooks/08_dropout.ipynb)
 
 01. [L2, L1正則化](https://colab.research.google.com/github/machine-perception-robotics-group/JDLALectureNotebooks/blob/master/notebooks/09_L2L1_regularization.ipynb)
@@ -32,6 +34,14 @@
 01. [データ集合の拡張](https://colab.research.google.com/github/machine-perception-robotics-group/JDLALectureNotebooks/blob/master/notebooks/10_data_augmentation.ipynb)
 
 01. [バッチ正規化・レイヤー正規化・インスタンス正規化](https://colab.research.google.com/github/machine-perception-robotics-group/JDLALectureNotebooks/blob/master/notebooks/11_feature_normalizations.ipynb)
+
+01. [ニューラルネットワークによる回帰](https://colab.research.google.com/github/machine-perception-robotics-group/JDLALectureNotebooks/blob/master/notebooks/xx_neural_network_regression.ipynb)
+
+01. [ニューラルネットワークによる順序回帰](https://colab.research.google.com/github/machine-perception-robotics-group/JDLALectureNotebooks/blob/master/notebooks/xx_ordinal_regression.ipynb)
+
+01. [ニューラルネットワークによるマルチラベル分類](https://colab.research.google.com/github/machine-perception-robotics-group/JDLALectureNotebooks/blob/master/notebooks/xx_multi_label_classification.ipynb)
+
+01. [ハイパーパラメータの探索と検証データ](https://colab.research.google.com/github/machine-perception-robotics-group/JDLALectureNotebooks/blob/master/notebooks/xx_parameter_search.ipynb)
 
 01. [回帰結合型のニューラルネットワーク（RNN）による電力予測](https://colab.research.google.com/github/machine-perception-robotics-group/JDLALectureNotebooks/blob/master/notebooks/12_rnn.ipynb)
 
@@ -51,7 +61,9 @@
 
 01. [Deep Convolutional GAN (DC-GAN)](https://colab.research.google.com/github/machine-perception-robotics-group/JDLALectureNotebooks/blob/master/notebooks/20_dcgan.ipynb)
 
-01. [Transformer](https://colab.research.google.com/github/machine-perception-robotics-group/JDLALectureNotebooks/blob/master/notebooks/31_transformer.ipynb)
+01. [Transformer（Numpy実装）](https://colab.research.google.com/github/machine-perception-robotics-group/JDLALectureNotebooks/blob/master/notebooks/31_transformer.ipynb)
+
+  01. [Transformerによる計算機作成（PyTorch実装）](https://colab.research.google.com/github/machine-perception-robotics-group/JDLALectureNotebooks/blob/master/notebooks/31_transformer_calc.ipynb)
 
 01. [Bidirectional Encoder Representations from Transformers (BERT)](https://colab.research.google.com/github/machine-perception-robotics-group/JDLALectureNotebooks/blob/master/notebooks/32_bert.ipynb)
 
